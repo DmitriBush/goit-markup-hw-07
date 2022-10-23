@@ -620,7 +620,7 @@ img {
   line-height: 1.19;
 }
 
-.logo-style {
+.logo__invers {
   color: var(--primary-white-color);
 }
 
@@ -696,7 +696,7 @@ img {
 .socialnet {
   width: 206px;
   height: 80px;
-  margin-left: 70px;
+  margin-left: 93px;
 }
 
 .socialnet__list {
