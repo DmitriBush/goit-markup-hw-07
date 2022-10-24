@@ -1013,18 +1013,6 @@ img {
   border-color: var(--accent-color);
 }
 
-/* .input-modal-container:hover .modal-input {
-  fill: var(--accent-color);
-} */
-
-/* .input-modal-container:hover {
-  fill: var(--accent-color);
-}
-
-.input-modal-container:focus-within {
-  fill: var(--accent-color);
-} */
-
 .input-modal-container:hover .icon-modal {
   fill: var(--accent-color);
 }
@@ -1032,8 +1020,3 @@ img {
 .input-modal-container:focus-within .icon-modal {
   fill: var(--accent-color);
 }
-
-/* .modal-input:hover .icon,
-.modal-input:focus .icon {
-  fill: var(--accent-color);
-} */
