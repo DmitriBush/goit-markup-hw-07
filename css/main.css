@@ -570,7 +570,7 @@ body {
 .teamsoc-list__soc-link:hover {
   background-color: var(--accent-color);
 }
-.teamsoc-list__soc-link:hover__soc-icon {
+.teamsoc-list__soc-link:hover .teamsoc-list__soc-icon {
   fill: var(--primary-white-color);
 }
 .teamsoc-list__soc-icon {

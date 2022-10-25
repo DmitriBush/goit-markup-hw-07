@@ -49,34 +49,17 @@
     align-items: center;
     justify-content: center;
     border-radius: 50%;
-
     transition: background var(--transition-animation);
     &:hover {
       background-color: var(--accent-color);
-      &__soc-icon {
+      .teamsoc-list__soc-icon {
         fill: var(--primary-white-color);
       }
     }
   }
+
   &__soc-icon {
     fill: var(--soc-color);
     transition: fill var(--transition-animation);
   }
 }
-
-// .teamsoc-list__soc-link:hover .teamsoc-list__soc-icon {
-//   fill: var(--primary-white-color);
-// }
-
-// .teamsoc-list__soc-icon {
-//   fill: var(--soc-color);
-//   transition: fill var(--transition-animation);
-// }
-
-//  &__soc-link:hover &__soc-icon {
-//     fill: var(--primary-white-color);
-//   }
-
-// .teamsoc-list__soc-link:hover .teamsoc-list__soc-icon {
-//   fill: var(--primary-white-color);
-// }
